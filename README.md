@@ -1,6 +1,7 @@
 # LeadDesk Mini CRM
 
-A lightweight Lead Management CRM built as part of the Digital Heroes Technical Assessment (Task B).
+A lightweight Lead Management CRM 
+
 
 The application allows visitors to submit leads through a public landing page while providing an authenticated admin dashboard to manage those leads.
 
